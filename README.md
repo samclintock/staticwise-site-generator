@@ -1,6 +1,6 @@
-# StaticWise - Static Blog Generator #
+# StaticWise - Static Site Generator #
 
-An open source static blog generator built using .NET and C#.
+An open source static site generator built using .NET and C#.
 
 ![StaticWise.Console](https://github.com/stevenmclintock/StaticWise/blob/master/Resources/StaticWise.Console.PNG?raw=true)
 
